@@ -11,7 +11,10 @@ public class MathUtilLive {
         System.out.println("6! = 720; actual: " + MathUtil.getFactorial(6));
         
         System.out.println("0! = 1 ;actual: " + MathUtil.getFactorial(0));
-      
+        
+        //THÊM CODE SAU LẦN ĐẦU TIÊN LÀM CHUYỆN ẤY - CODE LÊN SERVER 5:51PM 12/3/2024
+        System.out.println("1! = 1 ;actual: " + MathUtil.getFactorial(1));
+        System.out.println("3! = 6 ;actual: " + MathUtil.getFactorial(3));
         
         //MathUtil.getFactorial(-5); ném ngoại lệ thật rồi, ai biểu đwua cà chớn
         
